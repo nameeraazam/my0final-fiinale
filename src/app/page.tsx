@@ -13,14 +13,14 @@ import Footer from "../components/Footer";
 export default function Home() {
   return (
     <>
-      <Header />
-      <Banner />
-      <BannerBottom />
-      <Feature />
+      <Header/>
+      <Banner/>
+      <BannerBottom/>
+      <Feature/>
       <Mega/>
       <AuthorCard/>
       <BlogCard/>
-      <Footer />
+      <Footer/>
     </>
   );
 }
