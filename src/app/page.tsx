@@ -6,7 +6,7 @@ import Feature from "@/components/Feature";
 import Mega from "@/components/Mega";
 import AuthorCard from "@/components/AuthorCard";
 import BlogCard from "@/components/BlogCard";
-import Footer from "@/components/Footer";
+import Footer from "../components/Footer";
 
 
 
