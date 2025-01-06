@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { AiOutlineSearch, AiOutlineHeart, AiOutlineShoppingCart } from "react-icons/ai";
 
 import Link from "next/link";
-const Header = () => {
+const Header: React.FC = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
